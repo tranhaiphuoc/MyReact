@@ -9,6 +9,7 @@
 7. [Câu 15](https://codepen.io/thphuoc-12c4/pen/mdKWGxJ)
 8. [Câu 16](https://codepen.io/thphuoc-12c4/pen/zYadeMM)
 9. [Câu 17](https://codepen.io/thphuoc-12c4/pen/BaVdMeW)
+10. [Câu 18](https://codepen.io/thphuoc-12c4/pen/JjZaQRj)
 ## Thực hành
 1. [Thực hành props và state](https://codepen.io/thphuoc-12c4/pen/LYrJWzQ)
 2. [Dự án kết thúc](https://codepen.io/thphuoc-12c4/pen/jOKzPjE)
